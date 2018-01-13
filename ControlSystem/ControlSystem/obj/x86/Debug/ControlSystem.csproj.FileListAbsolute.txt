@@ -1,0 +1,7 @@
+E:\PBDEVN\01.C#OOP优化\Topic10\电子资料\ControlSystem\ControlSystem\bin\Debug\ControlSystem.exe
+E:\PBDEVN\01.C#OOP优化\Topic10\电子资料\ControlSystem\ControlSystem\bin\Debug\ControlSystem.pdb
+E:\PBDEVN\01.C#OOP优化\Topic10\电子资料\ControlSystem\ControlSystem\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\PBDEVN\01.C#OOP优化\Topic10\电子资料\ControlSystem\ControlSystem\obj\x86\Debug\ControlSystem.exe
+E:\PBDEVN\01.C#OOP优化\Topic10\电子资料\ControlSystem\ControlSystem\obj\x86\Debug\ControlSystem.pdb
+F:\工作资料\就业课程\第一单元  .NET编程基础与进阶\第一阶段上机练习及其他资料\课程2_面向对象开发\上机答案\ControlSystem\ControlSystem\obj\x86\Debug\ControlSystem.exe
+F:\工作资料\就业课程\第一单元  .NET编程基础与进阶\第一阶段上机练习及其他资料\课程2_面向对象开发\上机答案\ControlSystem\ControlSystem\obj\x86\Debug\ControlSystem.pdb
